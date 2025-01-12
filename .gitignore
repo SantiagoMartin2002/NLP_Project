@@ -1,4 +1,6 @@
 *.csv
 *.env
+*.json
+*.safetensors
 
 
