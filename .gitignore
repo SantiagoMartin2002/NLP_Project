@@ -3,5 +3,6 @@
 *.json
 *.safetensors
 *.pkl
+*.npy
 
 
